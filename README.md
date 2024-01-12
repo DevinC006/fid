@@ -1,3 +1,3 @@
 # fid
 School Project
-DIG2500 Fundamnetals of Interactive Design
+DIG2500 Fundamentals of Interactive Design
